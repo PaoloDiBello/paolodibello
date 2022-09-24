@@ -7,7 +7,7 @@
 [![Paolo's github stats](https://github-readme-stats.vercel.app/api?username=PaoloDiBello)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact)](https://github.com/amitravikumar/github-readme-stats)
 </br>
 
 ## **What I do**
