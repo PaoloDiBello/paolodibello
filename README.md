@@ -1,6 +1,6 @@
 ## **Hello everyone** 
 
-<img width="300" src="readme-1.svg"/>
+<img width="600" src="readme-1.svg"/>
 
 </br>
 
