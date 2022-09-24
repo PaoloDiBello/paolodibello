@@ -1,15 +1,11 @@
-## **Hello everyone** 
+## **Software Developer and polyglot** 
 
 <img width="600" src="readme-1.svg"/>
 
 </br>
 
-- 🔭 I’m currently working on duostories.org
-- 🌱 I’m currently learning react-query
-- 👯 I’m looking to collaborate on something fulfilling  
-- 🤔 I’m looking for help on becoming better
-- 💬 Ask me about anything
-- ⚡ Fun fact: I am a polyglot in human languages
+[![Paolo's github stats](https://github-readme-stats.vercel.app/api?username=PaoloDiBello)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </br>
