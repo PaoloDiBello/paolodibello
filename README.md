@@ -15,6 +15,3 @@
 - Build scalable web app using React
 - Develop cross-platform mobile apps using React-native
 - Create backend server applications using Node and Express
-
-<img width="600" src="computer.gif"/>
-
