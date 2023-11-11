@@ -24,7 +24,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
 ## 🌱 **What I do** 
 
 - Build scalable web apps using React
