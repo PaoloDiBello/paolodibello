@@ -14,7 +14,7 @@
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloDiBello&layout=compact&show_icons=true&theme=radical)](https://github.com/PaoloDiBello/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloDiBello&layout=compact&show_icons=true&theme=radical)
 
 ![Paolo's github stats](https://github-readme-stats.vercel.app/api?username=PaoloDiBello&show_icons=true&theme=radical)
 
