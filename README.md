@@ -26,7 +26,7 @@
 ![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloDiBello&layout=compact&show_icons=true&theme=radical)
 
