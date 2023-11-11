@@ -8,10 +8,9 @@
 
 </br>
 
-<p> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
-</p>
+## **Visitors count**
+<img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
+
 
 ## **What I do**
 
