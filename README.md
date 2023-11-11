@@ -8,6 +8,11 @@
 
 </br>
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
 ## **What I do**
 
 - Build scalable web app using React
