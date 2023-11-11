@@ -1,7 +1,5 @@
 ## **Software Developer and polyglot** 
 
-<img width="600" src="readme-1.svg"/>
-
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloDiBello&layout=compact)](https://github.com/amitravikumar/github-readme-stats)
