@@ -8,7 +8,7 @@
 
 </br>
 
-<p align="center"> 
+<p> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
 </p>
