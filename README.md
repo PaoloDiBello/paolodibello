@@ -17,10 +17,7 @@
 
 ![Paolo's github stats](https://github-readme-stats.vercel.app/api?username=PaoloDiBello&title_color=9925be&text_color=2596be&bg_color=041014)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="visitor badge"/>
-
-## **Visitors count**
-<img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
+#<img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
 
 
 ## 🌱 **What I do** 
@@ -28,3 +25,5 @@
 - Build scalable web app using React
 - Develop cross-platform mobile apps using React-native
 - Create backend server applications using Node and Express
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="visitor badge"/>
