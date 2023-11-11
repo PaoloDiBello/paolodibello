@@ -17,7 +17,7 @@
 
 ![Paolo's github stats](https://github-readme-stats.vercel.app/api?username=PaoloDiBello&title_color=9925be&text_color=2596be&bg_color=041014)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="visitor badge"/>
 
 ## **Visitors count**
 <img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
