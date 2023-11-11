@@ -23,7 +23,7 @@
 
 ## 🌱 **What I do** 
 
-- Build scalable web app using React
+- Build scalable web apps using React
 - Develop cross-platform mobile apps using React-native
 - Create backend server applications using Node and Express
 
