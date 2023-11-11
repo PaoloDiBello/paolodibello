@@ -27,6 +27,7 @@
 - Develop cross-platform mobile apps using React-native
 - Create backend server applications using Node and Express
 
+![line](https://user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif) 
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="visitor badge"/>
 
-![line](https://user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif) 
