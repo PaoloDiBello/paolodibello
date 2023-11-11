@@ -22,6 +22,7 @@
 ![AdobeXD](https://img.shields.io/badge/adobexd-FF00B6?style=for-the-badge&logoColor=white&logo=adobe)
 ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF8300?style=for-the-badge&logoColor=white&logo=postman)
 ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase)
 ![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
