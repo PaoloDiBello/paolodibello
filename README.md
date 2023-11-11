@@ -1,5 +1,3 @@
-<img width=101% src="https://capsule-render.vercel.app/api?type=waving&color=F03F88&height=120&section=header"/>
-
 <!-- ## **Software Developer and Polyglot 🤖** !-->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F768&repeat=false&random=false&width=500&lines=Frontend+Developer+and+Polyglot+%F0%9F%A4%96) 
 <div>
