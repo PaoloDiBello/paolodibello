@@ -1,3 +1,5 @@
+<img width=101% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
+
 <!-- ## **Software Developer and Polyglot 🤖** !-->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F768&repeat=false&random=false&width=500&lines=Frontend+Developer+and+Polyglot+%F0%9F%A4%96) 
 <div>
@@ -34,3 +36,4 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloDiBello.PaoloDiBello" alt="visitor badge"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=footer"/>
