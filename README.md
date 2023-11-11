@@ -1,4 +1,5 @@
-## **Software Developer and Polyglot 🤖** 
+<!-- ## **Software Developer and Polyglot 🤖** !-->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F768&repeat=false&random=false&width=435&lines=Frontend+Developer+and+Polyglot+%F0%9F%A4%96)](https://git.io/typing-svg) 
 <div>
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
