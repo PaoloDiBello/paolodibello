@@ -12,7 +12,7 @@
 <img src="https://profile-counter.glitch.me/PaoloDiBello/count.svg" />
 
 
-## **What I do**
+## 🌱 **What I do** 
 
 - Build scalable web app using React
 - Develop cross-platform mobile apps using React-native
