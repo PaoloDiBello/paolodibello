@@ -61,7 +61,7 @@
 
 - Build scalable web apps using React
 - Develop cross-platform mobile apps using React-Native
-- Create backend server applications using Node and Express
+- Create backend server applications using Node, Express And Nest
 
 ![line](https://user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif) 
 
