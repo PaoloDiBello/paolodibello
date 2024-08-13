@@ -1,4 +1,4 @@
-<!-- ## **Software Developer and Polyglot 🤖** !-->
+<!-- ## **⭐Software Developer and Polyglot 🤖** !-->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F768&repeat=false&random=false&width=500&lines=Frontend+Developer+and+Polyglot+%F0%9F%A4%96)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
